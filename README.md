@@ -70,3 +70,6 @@ Sourse: [A Massively Multilingual Pre-trained Text-to-Text Transformer](https://
 Code: [GitHub](https://github.com/google-research/multilingual-t5)
 
 Data: [Opus](https://www.google.com/url?q=https%3A%2F%2Fopus.nlpl.eu%2F)
+
+### License
+- MIT License
