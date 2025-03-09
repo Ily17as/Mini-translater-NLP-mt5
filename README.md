@@ -9,8 +9,6 @@ The source of the content is the study course of N.E. Bauman Moscow State Techni
 
 Sourse: [Youtube](https://www.youtube.com/playlist?list=PLgtntV-BLRqgJRhcZHz8GtFC3j_F27IDg)
 
-Code: [GitHub](https://github.com/averkij/mstu-nlp-course)
-
 ## Agenda
 - [Tech](#tech)
 - [Beggining](#beggining)
@@ -62,8 +60,6 @@ I created this project for study transformers and NN.
 
 ## Sources
 Sourse: [Youtube](https://www.youtube.com/playlist?list=PLgtntV-BLRqgJRhcZHz8GtFC3j_F27IDg)
-
-Code: [GitHub](https://github.com/averkij/mstu-nlp-course)
 
 Sourse: [A Massively Multilingual Pre-trained Text-to-Text Transformer](https://www.google.com/url?q=https%3A%2F%2Faclanthology.org%2F2021.naacl-main.41%2F)
 
